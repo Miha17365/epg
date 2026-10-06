@@ -42607,21 +42607,6 @@
        <desc lang="cs">Herecký koncert tří herců aneb dvojice &quot;hradních pánů&quot; slavících zaokrouhlené manželské výročí v prostředí devastovaného malého zámku, vráceného v restituci původním majitelům, a tuláka bez zábran a jakýchkoli konvencí, který dokáže probíhající intimní oslavu jak se patří zkomplikovat.Vynikající herecké trio, interpretující jemnou ironii textů autora M</desc>
        <icon src="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/0c5f23bb-1bb5-5920-9a50-5656786edd00"/>
     </programme>
-    <programme start="20261003220000 +0000" stop="20261003220900 +0000" channel="Rebel">
-       <title lang="cs">Metalmánia</title>
-       <desc lang="cs">Metalmánia | Stanice vysílá Metalmánia</desc>
-       <icon src="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/773ab16a-5f9a-4923-8ad2-50deeed84fb4"/>
-    </programme>
-    <programme start="20261003220900 +0000" stop="20261003221500 +0000" channel="Rebel">
-       <title lang="cs">Forever Rock</title>
-       <desc lang="cs">Forever Rock | Stanice vysílá Forever Rock</desc>
-       <icon src="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/773ab16a-5f9a-4923-8ad2-50deeed84fb4"/>
-    </programme>
-    <programme start="20261003221500 +0000" stop="20261003223000 +0000" channel="Rebel">
-       <title lang="cs">Forever Rock</title>
-       <desc lang="cs">Forever Rock | Stanice vysílá Forever Rock</desc>
-       <icon src="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/773ab16a-5f9a-4923-8ad2-50deeed84fb4"/>
-    </programme>
     <programme start="20261003223000 +0000" stop="20261004000000 +0000" channel="Rebel">
        <title lang="cs">Rock Mix</title>
        <desc lang="cs">Rock Mix | Stanice vysílá Rock Mix</desc>
@@ -125957,7 +125942,7 @@
     <programme start="20261007163000 +0000" stop="20261007173000 +0000" channel="Nova HD">
        <title lang="cs">Ulice</title>
        <desc lang="cs">22. série, 5203. díl | Soňa slíbila, že video z natáčení pořadu Pečeme s Naty nezneužije pro politické účely. Když se nahrávka objeví na sítích, Erik s Natálkou prožívají zklamání. Vladimír ale zuří. Opravdu je Soňa schopná takové zrady? Možná je to vaše ulice. Možná jste to vy. Původní český seriál (2026).</desc>
-       <icon src="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/1f680b7b-80db-47e3-9fbe-ef229eaab4df"/>
+       <icon src="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/1de2995e-21a4-4bdd-9022-1fb429977d21"/>
     </programme>
     <programme start="20261007173000 +0000" stop="20261007181000 +0000" channel="Nova HD">
        <title lang="cs">Televizní noviny</title>
@@ -147615,7 +147600,7 @@
     <programme start="20261007163000 +0000" stop="20261007173000 +0000" channel="NOVA AD">
        <title lang="cs">Ulice</title>
        <desc lang="cs">22. série, 5203. díl | Soňa slíbila, že video z natáčení pořadu Pečeme s Naty nezneužije pro politické účely. Když se nahrávka objeví na sítích, Erik s Natálkou prožívají zklamání. Vladimír ale zuří. Opravdu je Soňa schopná takové zrady? Možná je to vaše ulice. Možná jste to vy. Původní český seriál (2026).</desc>
-       <icon src="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/1f680b7b-80db-47e3-9fbe-ef229eaab4df"/>
+       <icon src="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/1de2995e-21a4-4bdd-9022-1fb429977d21"/>
     </programme>
     <programme start="20261007173000 +0000" stop="20261007181000 +0000" channel="NOVA AD">
        <title lang="cs">Televizní noviny</title>
